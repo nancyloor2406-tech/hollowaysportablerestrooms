@@ -1,0 +1,45 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 10px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. What’s included in a standard rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Delivery, setup, initial supplies (toilet paper, hand sanitizer), scheduled servicing, and pickup. No extra charges for weekend delivery around #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What is included in the porta potty rental prices in USA?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our rental cost of a porta potty includes the delivery of the unit, placement at your desired location, all necessary supplies like toilet paper and hand sanitizer (or water for sink units), scheduled servicing, and final pickup of the unit upon completion of your rental period.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Can I rent a single portable restroom for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We offer one-day porta potty rentals in USA, which are perfect for weekend parties, family reunions, or any single-day event. We’ll handle the drop-off before your event starts and the pickup afterward, making the process completely hassle-free.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Can I get a flushable unit delivered today in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes—if ordered by 1 PM, most flushable portable toilet rentals in #State can be delivered the same day close to #State.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
